@@ -28,7 +28,6 @@ def roll_dice(num_dice):
 
     return roll_results
 
-
 roll_results = roll_dice(num_dice)
 
 DICE_ART = {
