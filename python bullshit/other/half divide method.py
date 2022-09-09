@@ -5,7 +5,7 @@ n = 0
 
 
 def function(x):
-    return x ** 3 + x ** 2 - 1
+    return x ** 3 - 0.2 * x ** 2 + 0.5 * x + 1.5
 
 
 while (b - a) >= e:
